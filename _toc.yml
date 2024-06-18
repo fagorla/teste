@@ -1,0 +1,9 @@
+format: jb-book
+root: README
+chapters:
+  - title: Introdução
+    sections:
+      - file: content/01-Introducao.md
+      - title: Exercícios
+        sections:
+          - file: content/01-Exercicio.md
